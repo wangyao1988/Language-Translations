@@ -1447,8 +1447,8 @@ msgid ""
 "to become a stakeholder in the system and earn rank, rewards & tokens for "
 "curating content."
 msgstr ""
-"Everipedia의 IQ Network는 누구나 시스템의 이해 관계자가 되어콘텐츠 관리에 대"
-"한 순위, 보상 및 토큰을 얻을 수 있는세계 최초의 백과 사전입니다."
+"Everipedia의 IQ 네트워크는 누구나 이해 관계자가 되어, 콘텐츠 관리를 통해"
+"지위와 보상, 토큰을 얻을 수 있는 세계 최초의 백과 사전입니다."
 
 #: templates/enterlink/index.html:48
 msgid "Learn more"
@@ -1460,7 +1460,7 @@ msgstr "본 모습"
 
 #: templates/enterlink/index.html:100
 msgid "An Encyclopedia for the modern age"
-msgstr "현대 시대의 백과 사전"
+msgstr "시대에 맞는 백과 사전"
 
 #: templates/enterlink/index.html:104
 msgid ""
@@ -1470,10 +1470,10 @@ msgid ""
 "distributed backend hosted within a blockchain, the new Everipedia knowledge "
 "base will be able to improve upon all fundamental features of Wikipedia."
 msgstr ""
-"Everipedia IQ 블록 체인은 새로운 패러다임 변화와 지식 경제를 제공하여 "
-"Wikipedia와 비슷한 옛 중앙 집중식 인터넷 지식 백과 사전 모델을 중단합니다새로"
-"운 인센티브 구조와 블록체인 내에 호스팅 된 분산형 백엔드를 생성함으로써새로"
-"운 Everipedia 지식 기반은 Wikipedia의 모든 기본 기능을향상시킬 수 있습니다."
+"Everipedia IQ 블록 체인은 새로운 패러다임 변화와 지식 경제를 제공하여,"
+"Wikipedia와 유사한 낡은 중앙집중형 인터넷 지식 백과사전 모델을 타파합니다."
+"새로운 Everipedia 지식 기반은 새 인센티브 구조 창출과 블록체인 기반 분산형"
+"백엔드를 통해 Wikipedia의 모든 기본 기능을 향상시킬 수 있습니다."
 
 #: templates/enterlink/index.html:112
 msgid "Decentralized"
@@ -1484,12 +1484,12 @@ msgid ""
 "Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
 "distributed during the airdrop."
 msgstr ""
-"기사는 IPFS 및 EOS 저장소를 사용하여 가져옵니다. 대부분의 IQ는에어드롭 중간"
-"에 배포됩니다."
+"기사는 IPFS 및 EOS 저장소를 사용하여 가져옵니다. 대부분의 IQ는 에어드롭을"
+"통해 배분됩니다."
 
 #: templates/enterlink/index.html:117
 msgid "Democratic"
-msgstr "민주적"
+msgstr "민주주의"
 
 #: templates/enterlink/index.html:118
 msgid ""
@@ -1497,9 +1497,8 @@ msgid ""
 "network as it grows. Also will facilitate batch imports of new content with "
 "no fees."
 msgstr ""
-"지분 증명(PoS) 모델을 사용하면 성장함에 따라 투표는 IQ 네트워크를 변경하고업"
-"그레이드할 수 있습니다. 또한 무료로 새로운 컨텐츠를 일괄적으로가져올수 있습니"
-"다."
+"지분증명(PoS) 모델을 통해, 성장하는 IQ 네트워크를 변경하고 업그레이드할 수 있습니다."
+"또한 새로운 컨텐츠를 일괄적으로 무료로 가져올수 있습니다."
 
 #: templates/enterlink/index.html:122
 msgid "Censorship Resistant"
@@ -1510,7 +1509,7 @@ msgid ""
 "Live and permanent edits of content on the blockchain beyond the control of "
 "a central authority."
 msgstr ""
-"중앙 권력의 통제를 벗어난 블록 체인에서콘텐츠를 실시간으로 영구 편집합니다."
+"중앙권력의 통제를 벗어나 블록체인 상에서 콘텐츠를 실시간으로,영구적으로 편집합니다."
 
 #: templates/enterlink/index.html:127
 msgid "Financial Incentive"
@@ -1521,16 +1520,16 @@ msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
 msgstr ""
-"IQ의 모든 소지자는 고품질의 중립적인 콘텐츠를 만들고네트워크의 명성을 쌓기 위"
-"해 협력 할 것입니다."
+"모든 IQ 보유자는 인센티브를 통해 고품질의 중립적인 콘텐츠를 만들고,"
+"네트워크의 평판을 쌓기 위해 협력할 것입니다."
 
 #: templates/enterlink/index.html:139
 msgid "Become an editor today and start creating your own wiki articles."
-msgstr "오늘 에디터가 되어 자신의 위키 기사를 만들어보십시오."
+msgstr "오늘 편집자가 되어 여러분의 wiki 기사를 만들어 보십시오."
 
 #: templates/enterlink/index.html:142
 msgid "Open Community"
-msgstr "공개 커뮤니티"
+msgstr "열린 커뮤니티"
 
 #: templates/enterlink/index.html:143
 msgid ""
@@ -1538,12 +1537,12 @@ msgid ""
 "Our guidelines and policies are based on common sense rather than strict "
 "bureaucracy."
 msgstr ""
-"활발한 커뮤니티는 모든 배경의 사람들에게 열려 있으며 환영합니다. 우리의 지침"
-"과 정책은 엄격한 관료적인 번잡한 절차보다는상식을 기반으로 합니다"
+"우리의 활기찬 커뮤니티는 모든 사람들에게 열려 있고, 이들을 환영합니다. 우리의"
+"지침과 정책은 엄격한 관료적 절차보다 상식을 기반으로 합니다."
 
 #: templates/enterlink/index.html:145
 msgid "Redesigned for the modern age"
-msgstr "현대에 맞게 재설계 되었습니다."
+msgstr "시대에 맞게 재설계되었습니다."
 
 #: templates/enterlink/index.html:146
 msgid ""
@@ -1551,8 +1550,8 @@ msgid ""
 "first century. Our editing interface makes creating and editing wiki's as "
 "easy as using Facebook."
 msgstr ""
-"Everipedia는 21세기를 위해 현대화 및 다시 디자인된 백과 사전입니다.편집 인터"
-"페이스는Facebook을 사용하는 것처럼 쉽게 wiki를 생성하고편집할 수 있습니다."
+"21세기에 맞게 현대적으로 재설계된 백과사전입니다. 편집 인터페이스는 Facebook을"
+"사용하는 것 만큼 쉽게 wiki를 작성하고 편집할 수 있게 해줍니다."
 
 #: templates/enterlink/index.html:155
 msgid "Follow us on Telegram"
@@ -1560,7 +1559,7 @@ msgstr " Telegram 팔로우"
 
 #: templates/enterlink/index.html:168
 msgid "Lead by the Founder of Wikipedia and Genius.com"
-msgstr "Wikipedia및 Genius.com의 창립자로 선도"
+msgstr "Wikipedia와 Genius.com의 창업자가 이끌다."
 
 #: templates/enterlink/index.html:171
 msgid ""
@@ -1572,12 +1571,11 @@ msgid ""
 "Yale & Columbia, covering nationalities from America, Sweden, Norway and "
 "Italy. "
 msgstr ""
-"Everipedia는 온라인 지식 공간 뿐만 아니라 블록 체인 업계에서 광범위한 경험과"
-"지식을 갖춘 팀으로 선두하고 있습니다. 해당 경영팀은 업계의 저명한 인물들로 구"
-"성되어 있으며 Wikipedia의 공동 설립자인 Larry Sanger, Genius.com의 설립자인"
-"Mahbod Moghadam 및 기타 여러 사람들로 구성됩니다. 학업 자격은 UCLA, "
-"Stanford, 예일 & 컬럼비아를 포함하며 미국, 스웨덴, 노르웨이 및 이탈리아 출신"
-"의 국적자를 포함합니다."
+"Everipedia는 블록체인 산업 뿐 아니라 온라인 지식 공간에서 광범위한 경험과 지식을"
+"갖춘 팀이 주도하고 있습니다. 경영진은 Wikipedia의 공동 설립자인 Larry Sanger, "
+"Genius.com의 설립자인 Mahbod Moghadam 등 업계의 저명한 인물들로 구성되어 있습"
+"니다. 이들은 UCLA, 스탠포드, 예일, 컬럼비아 등에서 학위를 취득했으며, 미국,"
+"스웨덴, 노르웨이 및 이탈리아 출신 등 다양한 국적의 인물들이 참여하고 있습니다."
 
 #: templates/enterlink/index.html:172
 msgid "Executive Team"
