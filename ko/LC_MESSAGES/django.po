@@ -583,7 +583,7 @@ msgstr " Everipedia, 모든 것의 백과 사전"
 #: templates/enterlink/brainpowermgmt.html:101 templates/enterlink/edit.html:89
 #: templates/enterlink/transfer-iq.html:101 templates/enterlink/voting.html:180
 msgid "Loading Scatter"
-msgstr "분산 적재"
+msgstr "스캐터 로딩 중 "
 
 #: templates/enterlink/brainpowermgmt.html:117
 msgid ""
