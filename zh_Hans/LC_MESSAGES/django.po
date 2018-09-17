@@ -572,7 +572,7 @@ msgstr "Everipedia，百科全书"
 #: templates/enterlink/brainpowermgmt.html:101 templates/enterlink/edit.html:89
 #: templates/enterlink/transfer-iq.html:101 templates/enterlink/voting.html:180
 msgid "Loading Scatter"
-msgstr "加载散点"
+msgstr "加载Scatter"
 
 #: templates/enterlink/brainpowermgmt.html:117
 msgid ""
@@ -582,9 +582,9 @@ msgid ""
 "tokens and re-stake them for more Brainpower again. Thus, 1 IQ, staked every "
 "21 days, can lead to 365 days / 21 days = 17.38 Brainpower every year."
 msgstr ""
-"下注智商代币将冻结他们21天, 并将产生转让脑力, 这可以用于编辑和投票 "
-"Everipedia 网络。在21天结束, 您可以收回您的智商代币, 并再次与他们再次赌注, 以"
-"更多的脑力。因此, 1 的智商, 每21天押下, 可以导致365天/21 天 = 17.38 脑力每"
+"抵押IQ代币将冻结他们21天, 并将产生转让Brainpower, 这可以用于编辑和投票 "
+"Everipedia 网络。在21天结束, 您可以收回您的IQ代币, 并再次与他们再次赌注, 以"
+"更多的Brainpower。因此, 1 的IQ, 每21天押下, 可以导致365天/21 天 = 17.38 Brainpower每"
 "年。"
 
 #: templates/enterlink/brainpowermgmt.html:118
@@ -595,19 +595,19 @@ msgid ""
 "Therefore, you can generate more Brainpower (and any profit) by staking the "
 "new IQ you just earned."
 msgstr ""
-"当您做网页, 提出编辑, 并投票的文章建议, 您会消耗脑力。然而, 成功的编辑和投票"
-"的胜利一方的建议将产生奖励的智商, 而不是脑力。因此, 您可以通过对刚刚挣来的新"
-"智商进行下注来产生更多的脑力 (和任何利润)。"
+"当您做网页, 提出编辑, 并投票的文章建议, 您会消耗Brainpower。然而, 成功的编辑和投票"
+"的胜利一方的建议将产生奖励的IQ, 而不是Brainpower。因此, 您可以通过对刚刚挣来的新"
+"IQ进行下注来产生更多的Brainpower (和任何利润)。"
 
 #: templates/enterlink/brainpowermgmt.html:119
 msgid ""
 "Every edit proposal requires a minimum of 10 Brainpower at this time, in "
 "order to prevent spam and poor-quality edits."
-msgstr "每一个编辑方案都需要至少10的脑力在这个时候, 以防止垃圾邮件和劣质编辑。"
+msgstr "每一个编辑方案都需要至少10的Brainpower在这个时候, 以防止垃圾邮件和劣质编辑。"
 
 #: templates/enterlink/brainpowermgmt.html:122
 msgid "Enter an integer amount of IQ to stake"
-msgstr "输入一个整数金额的智商, 以利害关系"
+msgstr "输入一个整数金额的IQ, 以利害关系"
 
 #: templates/enterlink/brainpowermgmt.html:123
 msgid "New Stake"
@@ -1202,7 +1202,7 @@ msgstr "通知"
 #: templates/enterlink/headers/desktop-navbar.html:96
 #: templates/enterlink/headers/index_header.html:217
 msgid "Your IQ Score"
-msgstr "您的智商"
+msgstr "您的IQ"
 
 #: templates/enterlink/headers/desktop-navbar.html:29
 msgid "Table of contents"
@@ -1223,7 +1223,7 @@ msgstr "Feed订阅"
 
 #: templates/enterlink/headers/desktop-navbar.html:87
 msgid "Please log in with Scatter"
-msgstr "请用散点登录"
+msgstr "请用Scatter登录"
 
 #: templates/enterlink/headers/header_dropdown.html:53
 #: templates/enterlink/headers/mobile-navbar.html:153
@@ -1252,7 +1252,7 @@ msgstr "签到"
 #: templates/enterlink/headers/index_header.html:263
 #: templates/enterlink/index.html:47
 msgid "Register"
-msgstr "寄存器"
+msgstr "注册"
 
 #: templates/enterlink/headers/index_header.html:132
 #: templates/enterlink/login.html:36
@@ -1412,7 +1412,7 @@ msgstr "您当前没有任何通知。"
 
 #: templates/enterlink/index.html:40
 msgid "The world's first encyclopedia on the blockchain"
-msgstr "世界上第一本关于 blockchain 的百科全书"
+msgstr "世界上第一本基于区块链的百科全书"
 
 #: templates/enterlink/index.html:41
 msgid ""
@@ -1420,8 +1420,7 @@ msgid ""
 "to become a stakeholder in the system and earn rank, rewards & tokens for "
 "curating content."
 msgstr ""
-"Everipedia 的 IQ 网络是世界上第一个百科全书, 它允许任何人成为系统的利益相关"
-"者, 并获得策划内容的排名, 奖励和代币。"
+"Everipedia的IQ网络是世界上第一个允许任何人成为系统利益相关者并通过内容集展获得排名、奖励和代币的百科全书。"
 
 #: templates/enterlink/index.html:48
 msgid "Learn more"
@@ -1443,9 +1442,10 @@ msgid ""
 "distributed backend hosted within a blockchain, the new Everipedia knowledge "
 "base will be able to improve upon all fundamental features of Wikipedia."
 msgstr ""
-"Everipedia IQ blockchain 提供了一个新的范式变化和知识经济, 扰乱了旧的集中式互"
-"联网知识百科全书模型类似维基百科。通过创建一个新的激励结构和分布式后端托管在"
-"一个 blockchain 中, 新的 Everipedia 知识库将能够改进维基百科的所有基本功能。"
+"Everipedia IQ区块链提供了一种新的范式变化和知识经济，以打破类似维基百科这种"
+"传统的中心化互联网知识百科全书模式。通过在区块链中创建新的激励结构和分布式后端，"
+"新的Everipedia知识库将能够改进维基百科的所有基本功能。"
+
 
 #: templates/enterlink/index.html:112
 msgid "Decentralized"
@@ -1455,11 +1455,11 @@ msgstr "去中心化"
 msgid ""
 "Articles are fetched using IPFS and EOS Storage. Majority of IQ being "
 "distributed during the airdrop."
-msgstr "文章是使用指规数和 EOS 存储获取的。大多数智商分布在空投期间。"
+msgstr "使用IPFS和EOS Storage获取文章。 大多数IQ在空投期间分发。"
 
 #: templates/enterlink/index.html:117
 msgid "Democratic"
-msgstr "Democratic"
+msgstr "民主化"
 
 #: templates/enterlink/index.html:118
 msgid ""
@@ -1467,36 +1467,36 @@ msgid ""
 "network as it grows. Also will facilitate batch imports of new content with "
 "no fees."
 msgstr ""
-"股份证明 (PoS) 模型允许投票改变和升级 IQ 网络, 因为它的增长。还将方便批量导入"
-"新内容, 无需付费。"
+"随着IQ网络的增长，权益证明（PoS）模型允许投票以对其更改和升级。还将方便新内容"
+"的批量导入且不收取任何费用。"
 
 #: templates/enterlink/index.html:122
 msgid "Censorship Resistant"
-msgstr "耐审查性"
+msgstr "抗审查性"
 
 #: templates/enterlink/index.html:123
 msgid ""
 "Live and permanent edits of content on the blockchain beyond the control of "
 "a central authority."
-msgstr "对 blockchain 的内容进行实时和永久性的编辑, 超出了中央当局的控制范围。"
+msgstr "中心化权威无法控制区块链上的实时和永久性内容编辑 。"
 
 #: templates/enterlink/index.html:127
 msgid "Financial Incentive"
-msgstr "财务激励"
+msgstr "经济激励"
 
 #: templates/enterlink/index.html:128
 msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
-msgstr "所有的 IQ 持有人将激励创造质量, 中性的内容, 并共同努力建立网络的声誉。"
+msgstr "激励所有IQ持有者以创造高质量、中立的内容，共建网络的声誉。"
 
 #: templates/enterlink/index.html:139
 msgid "Become an editor today and start creating your own wiki articles."
-msgstr "今天成为一个编辑, 开始创建自己的 wiki 文章。"
+msgstr "即刻成为一位编辑, 开始创建属于你的wiki文章。"
 
 #: templates/enterlink/index.html:142
 msgid "Open Community"
-msgstr "开放社区"
+msgstr "开放的社区"
 
 #: templates/enterlink/index.html:143
 msgid ""
@@ -1504,12 +1504,13 @@ msgid ""
 "Our guidelines and policies are based on common sense rather than strict "
 "bureaucracy."
 msgstr ""
-"我们充满活力的社区是开放的, 欢迎所有背景的人。我们的方针和政策是基于常识而不"
-"是严格的官僚作风。"
+"我们充满活力的社区欢迎来自不同背景的人。我们的指导方针和政策是基于共识"
+"而不是墨守陈规的官僚主义。"
+
 
 #: templates/enterlink/index.html:145
 msgid "Redesigned for the modern age"
-msgstr "重新设计的现代时代"
+msgstr "为时代而生"
 
 #: templates/enterlink/index.html:146
 msgid ""
@@ -1517,12 +1518,12 @@ msgid ""
 "first century. Our editing interface makes creating and editing wiki's as "
 "easy as using Facebook."
 msgstr ""
-"Everipedia 是一本百科全书, 为第二十一世纪的现代化和重新设计。我们的编辑界面使"
-"得创建和编辑 wiki 和使用 Facebook 一样简单。"
+"Everipedia是为21世纪重新设计的现代化百科全书。 我们的编辑界面使得创建"
+"和编辑wiki就像使用Facebook一样简单。"
 
 #: templates/enterlink/index.html:155
 msgid "Follow us on Telegram"
-msgstr "跟我们联系电报"
+msgstr "关注我们的Telegram"
 
 #: templates/enterlink/index.html:168
 msgid "Lead by the Founder of Wikipedia and Genius.com"
@@ -1538,23 +1539,22 @@ msgid ""
 "Yale & Columbia, covering nationalities from America, Sweden, Norway and "
 "Italy. "
 msgstr ""
-"Everipedia 是一个团队, 拥有丰富的经验和知识, 既有在线知识空间, 也有 区块链行"
-"业的知识。执行团队由业界的几个著名人士组成, 维基百科的共同创始人, Genius."
-"com、Mahbod Moghadam 的创始人、以及其他几个人。学术证书包括加州大学洛杉矶分"
-"校、斯坦福大学、耶鲁大学和哥伦比亚大学, 涵盖来自美国、瑞典、挪威和意大利的民"
-"族。"
+"Everipedia由在线知识领域以及区块链行业拥有丰富经验和知识的团队领导。 管理团队"
+"由：维基百科的联合创始人Larry Sanger、Genius.com的创始人Mahbod Moghadam以及"
+"其他几位人士组成。 教育背景包括加州大学洛杉矶分校、斯坦福大学、耶鲁大学和哥伦比"
+"亚大学，涵盖美国、瑞典、挪威和意大利的国籍。"
 
 #: templates/enterlink/index.html:172
 msgid "Executive Team"
-msgstr "执行团队"
+msgstr "管理团队"
 
 #: templates/enterlink/leadership.html:7
 msgid "Leadership"
-msgstr "领导关怀"
+msgstr "管理团队"
 
 #: templates/enterlink/leadership.html:23
 msgid "Executive Leadership"
-msgstr "行政领导"
+msgstr "管理团队"
 
 #: templates/enterlink/leadership.html:35
 msgid "Chief Information Officer"
@@ -1562,15 +1562,15 @@ msgstr "首席信息官"
 
 #: templates/enterlink/leadership.html:41
 msgid "Chief Executive Officer, Co-Founder"
-msgstr "首席执行官, 共同创始人"
+msgstr "首席执行官, 联合创始人"
 
 #: templates/enterlink/leadership.html:47
 msgid "Chief Technology Officer, Co-Founder"
-msgstr "首席技术官, 共同创始人"
+msgstr "首席技术官, 联合创始人"
 
 #: templates/enterlink/leadership.html:53
 msgid "President, Co-Founder"
-msgstr "总裁, 共同创始人"
+msgstr "总裁, 联合创始人"
 
 #: templates/enterlink/leadership.html:63
 msgid "Director of Software"
@@ -1582,7 +1582,7 @@ msgstr "首席运营官"
 
 #: templates/enterlink/leadership.html:75
 msgid "Chief Community Officer, Co-Founder"
-msgstr "共同创办人首席社区干事"
+msgstr "首席社区干事，联合创始人"
 
 #: templates/enterlink/limitreached.html:7
 msgid "Activity limit reached"
